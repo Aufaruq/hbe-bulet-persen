@@ -2,7 +2,7 @@
 #include <YSI_Coding\y_hooks>
 
 // By aupa
-// Hbe Aeterne
+// Hbe 20k awkwakkaw ngakak anjeng hbe jelek di jual 20k, nih gua share biar ga rugi
 
 //perlu di ketahui, ini adalah SC untuk gm basic yang menggunakan Player Enum yaitu "PlayerData", jika kalian menggunakan LRP ubah "PlayerData" Menjadi "PlayerData" jika inferno "PlayerInfo" tergantung gm yang lu pake
 
